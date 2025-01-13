@@ -29,7 +29,7 @@ public class PasswordNotMatching {
             
             WebElement email = driver.findElement(By.xpath("(//input[@type=\"email\"])[2]"));
             Thread.sleep(2000);
-            email.sendKeys("pathareom0@gmail.com");
+            email.sendKeys("amrutaadamapureaa@gmail.com");
 
             
             driver.findElement(By.className("slds-checkbox_faux")).click();
