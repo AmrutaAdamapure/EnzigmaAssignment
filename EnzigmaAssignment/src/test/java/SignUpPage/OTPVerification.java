@@ -2,7 +2,7 @@
 package SignUpPage;
 
 import java.util.Scanner;
-import java.util.Set;
+
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
